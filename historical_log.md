@@ -9,6 +9,28 @@ quantities, weather conditions, tasks performed and any lessons
 learned.
 
 ---
+### 2025‑05‑18
+
+*Planting of Raised Bed 1.*
+
+On this day, the primary 2.5 ft × 14.5 ft raised bed was planted.  The plants were arranged from north (left) to south (right) with taller crops at the northern end to avoid shading:
+
+* **Mortgage Lifter tomato** – Indeterminate variety; deep‑planted with lower leaves removed.
+* **Genuwine Beefsteak tomato** – Indeterminate variety; deep‑planted with lower leaves removed.
+* **Roma tomato** – Determinate variety; planted at original soil level.
+* **Little Sicily tomato** – Determinate variety; planted at original soil level.
+* **Black Beauty eggplant** – Planted at current soil level.
+* **Carolina Reaper pepper** – Soil‑level planting.
+* **Early Flame jalapeño** – Soil‑level planting.
+* **Santa Fe Grande pepper** – Soil‑level planting.
+* **Golden California Wonder pepper** – Soil‑level planting.
+* **Purple Beauty pepper** – Soil‑level planting.
+* **Basil (2 plants)** – Planted in the two front corners of the bed.
+
+Design notes: Indeterminate tomatoes were buried deeper to encourage strong root development, while determinate tomatoes and peppers were planted at the soil surface.  A drip irrigation line was installed along the bed and stakes were added for tomato support.  The soil was well amended and watered thoroughly after planting.
+
+Observations: All transplants appeared healthy.  The bed layout was designed to maximise sunlight and airflow, with the tallest plants positioned on the north side and herbs at the front edges.
+
 
 ### 2025‑08‑03
 
