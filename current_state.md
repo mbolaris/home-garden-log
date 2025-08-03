@@ -9,7 +9,7 @@ are preserved.
 
 ## Overview (as of 2025‑08‑03)
 
-The home garden in coastal Solana Beach, California currently consists of one fully planted raised bed, a mixed tropical planter, a blueberry patch and several additional beds awaiting preparation.  Raised Bed 1 was planted on May 18 2025 with a variety of tomatoes, peppers, an eggplant and basil.  A tropical container holds pineapple, a pepper and papaya seedlings, while an in‑ground patch contains blueberries, strawberries and mint.  An unplanted bed along with 4 × 5 ft and 2 × 7 ft beds are still awaiting crops.  Use the tables and sections below to keep this snapshot up to date as you plant, water, harvest and observe changes.
+The home garden in coastal Solana Beach, California has expanded beyond a single raised bed.  In addition to **Raised Bed 1** (planted May 18 2025 with tomatoes, peppers, eggplant and basil), there is now a **mixed tropical planter**, an in‑ground **blueberry patch**, two **3.5 ft × 5 ft VEGO planters** in the back yard, a **4 ft × 8 ft VEGO planter** and another **3.5 ft × 5 ft VEGO planter** along the south side yard, plus **three front yard planters** whose exact dimensions are still being confirmed.  Several of these containers remain unplanted while plans are finalised.  A tropical container holds pineapple, an unidentified pepper and papaya seedlings, and the blueberry patch contains blueberries, strawberries and mint.  An unplanted bed along with the new VEGO planters and front yard planters are still awaiting crops.  Use the tables and sections below to keep this snapshot up to date as you plant, water, harvest and observe changes.
 
 ### Garden Beds
 
@@ -21,6 +21,13 @@ The home garden in coastal Solana Beach, California currently consists of one f
 | **4 × 5 ft Bed** | 4 ft × 5 ft bed | — | — | Not yet planted | — | Confirm whether this bed is raised or in‑ground and plan crops. |
 | **2 × 7 ft Bed** | 2 ft × 7 ft bed | — | — | Not yet planted | — | Confirm whether this bed is raised or in‑ground and plan crops. |
 | **Blueberry Patch** | In‑ground patch (dimensions TBD) | Sunshine Blue blueberry, Albion strawberry, mint (in bottomless pot) | 2025‑? | Active; plants established | 2025‑08‑02 | Mix of perennial blueberry and strawberry with mint; ensure mint doesn’t overtake; mulch and water regularly. |
+| **Back Yard Planter A** | 3.5 ft × 5 ft VEGO planter (~17″ tall) | — | — | Not yet planted | — | One of two identical VEGO planters in the back yard; confirm height and plan future crops. |
+| **Back Yard Planter B** | 3.5 ft × 5 ft VEGO planter (~17″ tall) | — | — | Not yet planted | — | Second VEGO planter in the back yard; currently empty pending planting plan. |
+| **South Side Planter (4 × 8 ft)** | 4 ft × 8 ft VEGO planter | — | — | Not yet planted | — | Located along the south side yard; decide on crops and confirm height (approx. 17″). |
+| **South Side Planter (3.5 × 5 ft)** | 3.5 ft × 5 ft VEGO planter (~17″ tall) | — | — | Not yet planted | — | Companion to the 4×8 ft planter on the south side; remains unplanted. |
+| **Front Yard Planter 1** | Size TBD (front yard container) | — | — | Not yet planted | — | One of three planters in the front yard; dimensions and planting plan to be confirmed. |
+| **Front Yard Planter 2** | Size TBD (front yard container) | — | — | Not yet planted | — | Second front yard planter; record dimensions and contents once known. |
+| **Front Yard Planter 3** | Size TBD (front yard container) | — | — | Not yet planted | — | Third front yard planter; awaiting details and plantings. |
 
 ### Tasks & To‑Do
 
